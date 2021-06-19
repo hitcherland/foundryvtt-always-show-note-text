@@ -8,6 +8,6 @@
     "compatibleCoreVersion": "0.8.7",
     "scripts": "main.js",
     "url": "https://github.com/hitcherland/foundryvtt-always-show-note-text",
-    "manifest": "https://raw.githubusercontent.com/hitcherland/foundryvtt-always-show-note-text/master/system.json",
+    "manifest": "https://raw.githubusercontent.com/hitcherland/foundryvtt-always-show-note-text/master/module.json",
     "download": "https://github.com/hitcherland/foundryvtt-always-show-note-text/archive/refs/tags/0.1.0.zip"
 }
