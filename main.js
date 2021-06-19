@@ -1,5 +1,5 @@
 Hooks.once('init', function () {
-    CONFIG.Note.documentClass = class extends Note {
+    CONFIG.Note.objectClass = class extends Note {
         refresh() {
             this.position.set(this.data.x, this.data.y);
             this.controlIcon.border.visible = this._hover;
