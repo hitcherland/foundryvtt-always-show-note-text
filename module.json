@@ -3,11 +3,11 @@
     "title": "Always Show Note Text",
     "description": "A Mod that lets you always show note text (e.g. when you have dragged a journal onto the map)",
     "author": "hitcherland",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.7",
     "scripts": "main.js",
     "url": "https://github.com/hitcherland/foundryvtt-always-show-note-text",
     "manifest": "https://raw.githubusercontent.com/hitcherland/foundryvtt-always-show-note-text/master/module.json",
-    "download": "https://github.com/hitcherland/foundryvtt-always-show-note-text/archive/refs/tags/0.1.0.zip"
+    "download": "https://github.com/hitcherland/foundryvtt-always-show-note-text/archive/refs/tags/0.1.1.zip"
 }
